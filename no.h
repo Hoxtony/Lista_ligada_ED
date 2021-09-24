@@ -1,3 +1,4 @@
+#include <stdlib.h>
 typedef struct no {
     int info;
     struct no * proximo;

@@ -1,4 +1,4 @@
-#include <stdlib.h>
+
 #include "no.h"
 
 s_no * constroi_no (int i) {

@@ -19,5 +19,7 @@ int main () {
     printf ("endereço do primeiro no: %p\n", no1);
     printf ("endereço do segundo no: %p\n", no2);
 
+    // no1 = no2; -> perde a referência para o no1, no2 vai para o limbo.
     return 0;
+
  }
